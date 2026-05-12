@@ -1,4 +1,4 @@
-# Tic-Tac-Toe (Lecture9)
+# Tic-Tac-Toe 
 
 A small browser-based Tic-Tac-Toe game implemented with plain HTML, CSS and JavaScript.
 
