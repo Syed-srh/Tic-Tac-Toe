@@ -32,5 +32,4 @@ A small browser-based Tic-Tac-Toe game implemented with plain HTML, CSS and Java
 - Add score tracking across rounds
 - Improve accessibility (ARIA labels, keyboard play)
 
----
-Created by student project for Lecture 9
+
