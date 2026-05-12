@@ -21,6 +21,9 @@ A small browser-based Tic-Tac-Toe game implemented with plain HTML, CSS and Java
 2. Click any square to play. Players alternate between `0` and `X`.
 3. Use the "Mode" button to toggle theme. Use "Reset" or "New Game" to restart.
 
+## Live Demo
+- View the hosted demo: https://tic-tac-toe-syed.vercel.app/
+
 ## Notes for developers
 - Game state lives in `app.js`. Key functions:
   - `checkWinner()` — checks winning patterns and shows winner
